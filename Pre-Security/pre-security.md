@@ -69,3 +69,82 @@
   - `A`, `AAAA`, `CNAME`, `MX`, `TXT`
 - Step-by-step DNS resolution process
 - Interactive DNS request lab
+
+## Room 10: HTTP in Detail
+- An overview of what **HTTP(s)** is
+  - Talking about requests and responses— overview of **URL** and its components
+    - `Host`, `User`, `Host`, `Port`, `Path`, `Query String`, `Fragment`
+  - How a request is made
+  - Its response
+- Different HTTP methods— `Get`, `Put`, `Post`, `Delete`
+- Different HTTP status codes
+- HTTP headers—**Request Header** and **Response Header**
+- What are **Cookies**, and a related interactive lab
+- A practical lab to deepen the understanding of making HTTP(s) requests
+
+## Room 11: How Websites Work
+- Overview on basic workings of websites—`Front End (client-side)` and `Back End(Server-side)`
+- Basics on **HTML** and an associated interactive lab
+- Basics on **JavaScript** and an associated interactive lab
+- A section about **Sensitive Data Exposure**
+- Overview of **HTML Injection** and and associated interactive lab
+
+## Room 12: Putting it all together
+- How all the components of network— `Browser`, `DNS`, `Webserver`, `Website`— work together provide the system that we experience
+- Certain components that help improve the efficiency of the system—`Load Balancers`, `CDN(Content Delivery Network)`, `Databases`, `WAF (Web  Application Firewall)`
+- Working of webservers
+
+## Room 13: Linux Fundamentals Part 1
+- Introduction to what **LINUX** is
+- Gives a breifing on **Linux**— its uses, Flavours.
+- Introduction to interacting with **Linux** machine (in-browser)
+- Basic commands like `echo`, `whoami`
+- Commands that are used for interacting with FileSystem
+  -  `ls`, `cd`, `cat`, `pwd`
+- Searching for files using commands — `find`, `grep`
+- Shell operators — `&`, `&&`, `>`,`>>`
+
+## Room 14: Linux Fundamentals Part 2
+- Accesing **Linux** machines using **SSH**
+- Introduction to flags and switches (eg; `-a`). Using `man` command to open the manual.
+- Further on *Filesystem* interaction.
+  - `touch`, `mkdir`, `cp`, `mv`, `rm`, `file`
+- A section regarding all the basics of *Permissions*. Covers **Users** and **Groups**— switching between **Users** `su`.
+- Common directories; `/etc`, `/var`, `/var`, `/tmp`
+
+## Room 15: Linux Fundamentals Part 3
+- Terminal Text Editors; use of `nano` and `VIM`
+- General utilities— Downloading files `Wget`, Transferssing file from Host `SCP(SSH)`, Serving files from Host `WEB`
+- Overview on **Processes**— `ps`, `ps aux`, `top`, `kill`, `SIGTERM`, `SIGKILL`, `SIGSTOP`, `systemcl` *(start, stop, enable, disable)*
+- Automation using *cron*  `crontab`, `crontab -e`
+- Packages and repos
+- System logs `access log`, `error log`
+
+## Room 16: Windows Fundamentals 1
+- Introduction to windows and its editions
+- Desktop/GUI
+- Filesystem; **NTFS** `Permissions`, `ADS`.
+- **System32**
+- User Accounts, Profiles and Permissions
+- User Accounts controls
+- Settings and Control Panel
+- Task manager
+
+## Room 17: Windows Fundamentals 2
+- System configuration `msconfig`
+- User Account Controls **UAC**
+- Computer management `compmgmt`
+- System Information `msinfo32`
+- Resource monitor `resmon`
+- Command Prompt `cmd`
+- Registry Editior `regedit`
+
+## Room 18: Windows Fundamentals 3
+- Windows Updates `control/name Microsoft.WindowsUpdate.`
+- Windows Security 
+- Virus & threat protection
+- Firewall & network protection `WF.msc`
+- App & browser control
+- Device security *core isolation*, *TPM*
+- **BitLocker**
+- Volume shadow copy service **VSS**
