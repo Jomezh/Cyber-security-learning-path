@@ -132,7 +132,7 @@
 
 ## Room 17: Windows Fundamentals 2
 - System configuration `msconfig`
-- User Account Controls **UAC**
+- User Account Controls **(UAC)**
 - Computer management `compmgmt`
 - System Information `msinfo32`
 - Resource monitor `resmon`
@@ -148,3 +148,5 @@
 - Device security *core isolation*, *TPM*
 - **BitLocker**
 - Volume shadow copy service **VSS**
+
+---
