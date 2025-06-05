@@ -10,7 +10,7 @@
 > 🪟 **Windows Fundamentals Part 1**, **Windows Fundamentals Part 2**, **Windows Fundamentals Part 3**— *From* [Pre-Security](https://github.com/Jomezh/Cyber-security-learning-path/blob/main/Pre-Security/pre-security.md)
 
 ## Defensive Security
-> 🤖**Defensive Security Intr** — *From* [Pre-Security](https://github.com/Jomezh/Cyber-security-learning-path/blob/main/Pre-Security/pre-security.md)
+> 🤖**Defensive Security Intro** — *From* [Pre-Security](https://github.com/Jomezh/Cyber-security-learning-path/blob/main/Pre-Security/pre-security.md)
 
 ## Build Your Cyber Security Career
 > 🏢**Careers in Cyber** — *From* [Pre-Security](https://github.com/Jomezh/Cyber-security-learning-path/blob/main/Pre-Security/pre-security.md)
