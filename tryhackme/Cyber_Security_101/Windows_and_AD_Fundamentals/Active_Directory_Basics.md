@@ -1,7 +1,7 @@
 # 🖲️ Active Directory Basics
 
 > ‼️*Active Directory* is used to manage devices in windows based network domain in corporate levels. 
-
+> 📅 Completed on 05-06-2025
 ---
 
 ## 🏛️Windows Domains
