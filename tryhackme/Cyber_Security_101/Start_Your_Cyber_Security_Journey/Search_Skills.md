@@ -1,6 +1,6 @@
 # 🔍Search Skills
 
-> Completed on 02-06-2025
+> 📅Completed on 02-06-2025
 ---
 ## Introduction
 - Outlines the learning objectives of the section
