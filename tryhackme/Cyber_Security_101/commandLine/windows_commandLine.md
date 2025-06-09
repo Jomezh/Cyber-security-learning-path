@@ -2,6 +2,8 @@
 
 > Command Line Interface *(**CLI**)* is a text based interface that uses little resources, helps with automation and remote management.
 
+> 📅 completed on 06-06-2025
+
 ---
 
 ## ❗Basic System Information
