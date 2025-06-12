@@ -48,19 +48,19 @@
 - `chmod +x <name of file>` to make file executable
 - *Loops* to iterate tasks 
 Eg:
-    `for i in {1..10};`
-    `do`
-    `echo $i`
-    `done`
+   - `for i in {1..10};`
+   - `do`
+   - `echo $i`
+   - `done`
 - *Conditional Statements* to act on certain conditions
 Eg:
-    `echo "please enter your name: "`
-    `read name`
-    `if [ "$name" = "Stewart" ]; then`
-    `   echo "Welcome Stewart! "`
-    `else`
-    `   echo "Sorry you are not authorized"`
-    `fi`
+   -  `echo "please enter your name: "`
+   -  `read name`
+   -  `if [ "$name" = "Stewart" ]; then`
+   -  `   echo "Welcome Stewart! "`
+   -  `else`
+   -  `   echo "Sorry you are not authorized"`
+   -  `fi`
 - *Comments* to write texts that doesn't affect the code
 Eg:
     `# Command starts here`
