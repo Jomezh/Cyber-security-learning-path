@@ -17,13 +17,13 @@
 - By default it will resolve the ip address to appropriate domain and port number to such as `80` to `http`. This can be avoided using `-n` and `-nn`
 - The output can be made more verbose using `-v` command. The more verbose you need it to be, more the 'v' you need to add
 - commands
-    - `tcpdum -i Interface`
-    - `tcpdum -w file`
-    - `tcpdum -r file`
-    - `tcpdum -c Count`
-    - `tcpdum -n`
-    - `tcpdum -nn`
-    - `tcpdum -v`
+    - `tcpdump -i Interface`
+    - `tcpdump -w file`
+    - `tcpdump -r file`
+    - `tcpdump -c Count`
+    - `tcpdump -n`
+    - `tcpdump -nn`
+    - `tcpdump -v`
 
 ## 🥅Filtering Expressions
 - To filter packets of a particular host, you can use `host <IP>` or `host <HOSTNAME>` commands
